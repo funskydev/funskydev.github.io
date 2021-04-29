@@ -1,8 +1,14 @@
 Origin: FunskyRepo
-Label: Funsky's Repo
+Label: FunskyRepo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Funsky's Repository
+Description: Funsky Dev Repository
+MD5Sum:
+ a8140ec7f7d20db5a141280696945a0c 550 Packages
+SHA1:
+ 70cc1b2416e20a6291581764fcc9ee5c8ed83d04 550 Packages
+SHA256:
+ 90f3ccfa292d033ac417502b8aac3f87a8b60b01c180706ab1ea28fb1f1ac13b 550 Packages
