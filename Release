@@ -6,9 +6,5 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Funsky Dev Repository
-MD5Sum:
- a8140ec7f7d20db5a141280696945a0c 550 Packages
-SHA1:
- 70cc1b2416e20a6291581764fcc9ee5c8ed83d04 550 Packages
 SHA256:
- 90f3ccfa292d033ac417502b8aac3f87a8b60b01c180706ab1ea28fb1f1ac13b 550 Packages
+ e3687bfc1a419bce8830f4bbcc1cd849156d80bb70999c63f888d8249dbea5ab 550 Packages
