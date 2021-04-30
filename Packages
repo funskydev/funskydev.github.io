@@ -6,10 +6,8 @@ Maintainer: Funsky Dev <funskydev@outlook.com>
 Author: Funsky Dev <funskydev@outlook.com>
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 12)
-Filename: ./debs/funskydev.nbn2_1.0_iphoneos-arm.deb
-Size: 3068
-MD5sum: 08b97c027f06838ea284d4cdf4ce52f1
-SHA1: 003c98e18142ef47e0aec3192ba33c65e4ab0d42
-SHA256: ba1c07f68a7f96b90d1b28904d42aa6efcf3d1104af4c69f22b1cf2e3b721311
+Filename: ./debs/funskydev.nbn2_1.1_iphoneos-arm.deb
+Size: 2868
+SHA256: 597ea4fc81bad25a7e4fd7b974c829d5acb2772116700416770e501ca4d58db1
 Description: Tweak that hides the title of notification banners. No settings to configure.
 
